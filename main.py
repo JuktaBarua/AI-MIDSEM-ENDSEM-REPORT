@@ -1,14 +1,14 @@
-# here we have choosen machine to play with the machine itself for gaining experience
+# here we have choosen machine to play with the machine itself for training/gaining experience
 
-# learning phase -machine with machine
-# playing phase -machine with human
+# learning phase - machine with machine
+# playing phase - machine with human
 
 # To Generate Random numbers
 import random
+
+
 # To Generate data structures more powerful than in built data types
-import collections
 # This makes the process platform independent
-import os
 
 
 # we will have 2 states state a and state b
